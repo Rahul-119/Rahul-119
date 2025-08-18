@@ -1,5 +1,5 @@
 ## 📝 About Me
-Hi, I am [Rahul Dutta], a passionate developer focused on building clean and interactive web interfaces.  
+Hi, I am Rahul Dutta, a passionate developer focused on building clean and interactive web interfaces.  
 I also enjoy solving competitive programming problems and improving my problem-solving skills.
 
 ## 💻 What I Do
