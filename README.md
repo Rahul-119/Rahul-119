@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Rahul 👋
 
 ## About Me
 I'm a passionate developer focused on building clean and interactive web interfaces.  
@@ -9,7 +9,7 @@ I also enjoy solving competitive programming problems and improving my problem-s
 - 🧩 Competitive Programming (CP)  
 
 ## Profile
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/rahul119)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rahul119)  
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
