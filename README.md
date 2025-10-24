@@ -1,9 +1,9 @@
 ## 📝 About Me
 Hi, I am Rahul Dutta, a passionate developer focused on building clean and interactive web interfaces.  
-I also enjoy solving competitive programming problems and improving my problem-solving skills.
+I also enjoy solving competitive programming problems and improving my problem solving skills.
 
 ## 💻 What I Do
-- Web Development (Frontend & UI design)  
+- Build full-stack web apps (Frontend & Backend, UI/UX) 
 - Competitive Programming (CP)  
 
 ## 🌐 Profile
