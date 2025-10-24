@@ -21,6 +21,7 @@ I also enjoy solving competitive programming problems and improving my problem s
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-119&show_icons=true&theme=tokyonight)
