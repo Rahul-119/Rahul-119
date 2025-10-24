@@ -8,6 +8,9 @@ I also enjoy solving competitive programming problems and improving my problem s
 
 ## 🌐 Profile
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rahul119)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/rahul_179)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-CC0000?logo=codechef&logoColor=white)](https://www.codechef.com/users/rahul_171)
+
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
