@@ -48,6 +48,11 @@ Currently, I'm focused on backend engineering, system design, distributed system
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis\&logoColor=white)
 
+**ORM & Queue**
+
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?logo=drizzle\&logoColor=black)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF6B35?logo=redis\&logoColor=white)
+
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
